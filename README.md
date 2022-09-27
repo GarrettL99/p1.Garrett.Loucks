@@ -1,3 +1,1 @@
-# ElevatorDesign
-# A better design for elevators
-blaa
+Some good things about this design is that it includes all of the necessary buttons for the building. It has a button for each of the four floors, as well as open, close and alarm. There is even a button to call for help. The button lights up when it is pressed so that the user knows it is working. This can be improved by making the floor buttons vertically stacked instead of sitting next to each other.
