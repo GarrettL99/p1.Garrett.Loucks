@@ -9,3 +9,4 @@ This elevator design makes doing these things easier, because it is easy to unde
 The user pushes a button, then the elevator opens. Once inside, the user can push the button corresponding to the floor they need. The elevator takes them to that floor.
 The elevator has numbers or symbols next to the buttons so the user knows what button does what.
 The floor button will glow red once it is pushed to let the user know it has been pushed.
+It is possible for someone to mistake the button for another one because the numbers are not connected to the button.
