@@ -12,4 +12,4 @@ The floor button will glow red once it is pushed to let the user know it has bee
 It is possible for someone to mistake the button for another one because the numbers are not connected to the button.
 ![protoelevator](https://user-images.githubusercontent.com/97306505/192913491-abd28aae-7903-4ed8-9145-927849fef4b0.jpg)
 
-Link to touchscreen: 
+Link to processing GIF: https://github.com/GarrettL99/p1.Garrett.Loucks/blob/main/processingelevator.gif
